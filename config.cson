@@ -1,0 +1,11 @@
+"*":
+  core:
+    editor:
+      multiCursorOnClick: true
+    telemetryConsent: "limited"
+  "exception-reporting":
+    userId: "a2ccb0ca-2e25-447b-88e2-275e097c20f8"
+  "prettier-atom":
+    formatOnSaveOptions:
+      enabled: true
+      showInStatusBar: true
